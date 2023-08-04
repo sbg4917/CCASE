@@ -1,0 +1,5 @@
+Manifest file for knb-lter-hbr.59.10-4c9184f37cff01bcdc32dc486ec36961.zip created on Fri Oct 15 12:02:24 MDT 2021
+HBEF_air_temp_daily_1957-2021.csv (3325053 bytes)
+knb-lter-hbr.59.10.xml (20527 bytes)
+knb-lter-hbr.59.10.txt (11691 bytes)
+knb-lter-hbr.59.10.report.xml (31318 bytes)

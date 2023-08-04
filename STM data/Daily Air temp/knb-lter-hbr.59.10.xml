@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="knb-lter-hbr.59.10"
+  system="https://pasta.edirepository.org"
+  xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+  xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0  https://nis.lternet.edu/schemas/EML/eml-2.2.0/xsd/eml.xsd">
+  <access
+    authSystem="https://pasta.edirepository.org/authentication"
+    order="allowFirst" scope="document"
+      system="https://pasta.edirepository.org">
+    <allow>
+      <principal>uid=HBR,o=EDI,dc=edirepository,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <alternateIdentifier
+        system="https://doi.org">doi:10.6073/pasta/3afab60d54d5f2fcb1112e71f4be2106</alternateIdentifier><title>Hubbard Brook Experimental Forest: Daily Temperature Record, 1955 - present</title>
+    <creator>
+      <organizationName>USDA Forest Service, Northern Research Station</organizationName>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>John</givenName>
+        <surName>Campbell</surName>
+      </individualName>
+      <organizationName>USDA Forest Service, Northern Research Station</organizationName>
+      <electronicMailAddress>john.campbell2@usda.gov</electronicMailAddress>
+      <userId
+        directory="https://orcid.org">https://orcid.org/0000-0003-4956-1696</userId>
+      <role>Associated Party</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Amey</givenName>
+        <surName>Bailey</surName>
+      </individualName>
+      <organizationName>USDA Forest Service, Northern Research Station</organizationName>
+      <electronicMailAddress>amey.bailey@usda.gov</electronicMailAddress>
+      <userId
+        directory="https://orcid.org">https://orcid.org/0000-0003-3848-8550</userId>
+      <role>Associated Party</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Nina</givenName>
+        <surName>Lany</surName>
+      </individualName>
+      <organizationName>USDA Forest Service, Northern Research Station</organizationName>
+      <electronicMailAddress>nina.lany@usda.gov</electronicMailAddress>
+      <userId
+        directory="https://orcid.org">https://orcid.org/0000-0003-0868-266X</userId>
+      <role>Associated Party</role>
+    </associatedParty>
+    <pubDate>2021-10-14</pubDate>
+    <abstract>
+      <para>Air temperature is measured at seven locations in rain gage clearings throughout the experimental watersheds and at Headquarters. The oldest air temperature record dates back to October 20,1955 at Station 1. From 1955 - 2014, temperature measurements were made continuously using hygrothermographs housed in standard shelters. Beginning in 2014, digital sensors housed in solar radiation shields collected daily minimum and maximum temperature measurements. Measurements made by the hygrothermographs have been corrected for screen bias to match the current aspirated radiation shields.</para>
+      <para>These data were gathered as part of the Hubbard Brook Ecosystem Study (HBES). The HBES is a collaborative effort at the Hubbard Brook Experimental Forest, which is operated and maintained by the USDA Forest Service, Northern Research Station.</para>
+      <para>Publications related to this dataset:</para>
+      <para>Bailey, Amey Schenck; Hornbeck, James W.; Campbell, John L.; Eagar, Christopher. 2003. Hydrometeorological database for Hubbard Brook Experimental Forest: 1955-2000. Gen. Tech. Rep. NE-305. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northeastern Research Station. 36 p&#xd;
+</para>
+    </abstract>
+    <keywordSet>
+      <keyword>ecosystems</keyword>
+      <keyword>forests</keyword>
+      <keyword>watersheds</keyword>
+      <keyword>temperature</keyword>
+      <keyword>meteorology</keyword>
+      <keyword>weather</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>disturbance</keyword>
+      <keywordThesaurus>LTER Core Research Area</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>HBR</keyword>
+      <keyword>Hubbard Brook LTER</keyword>
+      <keyword>Hubbard Brook Experimental Forest</keyword>
+      <keyword>Hubbard Brook Ecosystem Study</keyword>
+      <keyword>HBES</keyword>
+      <keyword>HBEF</keyword>
+      <keyword>New Hampshire</keyword>
+      <keyword>NH</keyword>
+      <keyword>White Mountain National Forest</keyword>
+      <keywordThesaurus>HBES Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>biota</keyword>
+      <keyword>climatologyMeteorologyAtmosphere</keyword>
+      <keywordThesaurus>ISO 19115 Topic Category</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Climate change</keyword>
+      <keyword>Climate change effects</keyword>
+      <keyword>Ecology, Ecosystems, &amp; Environment</keyword>
+      <keywordThesaurus>National Research &amp; Development Taxonomy</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data (\"Data User\" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available \"as is.\" The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+</para>
+    </intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Hubbard Brook Experimental Forest</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.8062</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7022</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.959</northBoundingCoordinate>
+          <southBoundingCoordinate>43.914</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_1</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.7248377271807</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7248377271807</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.952120788912</northBoundingCoordinate>
+          <southBoundingCoordinate>43.952120788912</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_6</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.7348652311841</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7348652311841</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.9572423291634</northBoundingCoordinate>
+          <southBoundingCoordinate>43.9572423291634</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_14</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.7656055273303</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7656055273303</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.9207988375939</northBoundingCoordinate>
+          <southBoundingCoordinate>43.9207988375939</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_17</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.7582278684932</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7582278684932</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.9190259429513</northBoundingCoordinate>
+          <southBoundingCoordinate>43.9190259429513</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_HQ</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.7012292563386</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.7012292563386</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.9440218597392</northBoundingCoordinate>
+          <southBoundingCoordinate>43.9440218597392</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <geographicCoverage>
+        <geographicDescription>STA_23</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-71.746926195465</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.746926195465</eastBoundingCoordinate>
+          <northBoundingCoordinate>43.9272011309167</northBoundingCoordinate>
+          <southBoundingCoordinate>43.9272011309167</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1957-01-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2021-09-30</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>Ongoing</description>
+    </maintenance>
+    <contact>
+      <organizationName>Hubbard Brook Ecosystem Study</organizationName>
+      <electronicMailAddress>hbr-im@lternet.edu</electronicMailAddress>
+    </contact>
+    <publisher><organizationName>Environmental Data Initiative</organizationName><electronicMailAddress>info@environmentaldatainitiative.org</electronicMailAddress><onlineUrl>https://environmentaldatainitiative.org</onlineUrl><userId
+          directory="https://ror.org">0330j0z60</userId></publisher><pubPlace>Environmental Data Initiative</pubPlace><methods>
+      <methodStep>
+        <description>
+          <para>SAMPLING DESIGN:</para>
+          <para>Daily maximum and minimum temperatures from up to eight locations at HBEF were measured from October, 1955 through February, 2013 using mechanical hygrothermographs in weather shelters at seven locations. Six locations are in rain gage openings: 1/1A, 6, 14, 17, 23, and 24. One location is adjacent to the Headquarters building. At each station, air temperature (and usually relative humidity) was recorded by Belfort hygrothermographs housed in standard Stevenson screens, 5 feet off the ground. Standard, maximum and minimum thermometers were housed in the shelters alongside the hygrothermographs for weekly calibration checks of the current, max and min temperatures captured on the chart. The hygrothermograph charts were changed weekly, at which time the thermometers were read. Daily maximum and minimum temperatures were read manually from the charts. Correction for disagreement with the standard thermometers were seldom made as agreement is usually within 2 degrees F. The hygrothermographs were readjusted annually and rotated from site to site after lab calibration to prevent instrument bias. Maximum and minimum temperatures were converted from Fahrenheit to Celsius. Average daily temperature is calculated from the maximum and minimum.</para>
+          <para>Beginning during 2011, Campbell Scientific HMP50/60 or CS215 thermistors in six-plate Gill shields recorded daily maximum and minimum temperatures at each location. Gill shields were replaced with Apogee aspirated shields by mid-2016. Digital sensors and hygrothermographs were operated in the same clearing for an overlap period of at least one full year at all stations, and adjustments for changes in sensor and radiation shield technology were made by using linear interpolation to smooth median monthly differences to a daily scale. Prior to the transition to digital sensors, if a weather station was not operating, the value for that day was estimated from values at the other stations and was not not flagged. Currently, missing values are estimated according to linear regression with the best matched location and are indicated with a flag. Prior to the transition, the Fahrenheit to Celsius conversion and rounding to whole degrees Centigrade leads to considerable underrepresentation of -5, 0, 5, 10, etc. values. After the transition, values are rounded to the nearest 0.5 degree Centigrade. Station 24 is not included in this revision of the data because the transition to digital has not been completed. Data from three days at Station 1 in 1955 (1955-12-20 through 1955-12-22) were not recorded. The maximum and minimum air temperatures for these days were estimated with linear interpolation between the days surrounding the gap (1955-12-19 and 1955-12-23) because Station 1 was the only sensor in operation at that time. These three days are indicated with a flag.</para>
+          <para>Coordinates of each sampling location are included in the Geographic metadata. They were measured to 1 m accuracy at the precipitation gauge co-located within the same clearing, and thus coordinates are accurate to within ~10 meters of the air temperature sensor. </para>
+          <para>The elevation of each co-located precipitation station is as follows:</para>
+          <para>Headquarters: 254.6 m</para>
+          <para>Station 1: 478.1 m</para>
+          <para>Station 6: 731.9 m</para>
+          <para>Station 14: 732.1 m</para>
+          <para>Station 17: 897.6 m</para>
+          <para>Station 23: 667.5 m&#xd;
+</para>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Hubbard Brook Experimental Forest Long-Term Data Collection</title>
+      <personnel>
+        <organizationName>USDA Forest Service, Northern Research Station</organizationName>
+        <role>Principal Investigator</role>
+      </personnel>
+      <funding>USDA Forest Service Northern Research Station</funding>
+    </project>
+    <dataTable>
+      <entityName>HBEF daily temperature</entityName>
+      <entityDescription>HBEF daily temperature; min,max,avg</entityDescription>
+      <physical>
+        <objectName>HBEF_air_temp_daily_1957-2021.csv</objectName>
+        <size
+          unit="bytes">3325053</size>
+        <authentication
+                    method="MD5">c464c3f37ee16a0d60e4efa18727d37c</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/59/10/9723086870f14b48409869f6c06d6aa8</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>date</attributeName>
+          <attributeDefinition>Collection Date</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>STA</attributeName>
+          <attributeDefinition>Rain Gauge Number</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Rain Gauge Number</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>MAX</attributeName>
+          <attributeDefinition>Daily maximum temperature</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum
+                    exclusive="false">-29</minimum>
+                  <maximum
+                    exclusive="false">38</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>data not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>MIN</attributeName>
+          <attributeDefinition>Daily minimum temperature</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum
+                    exclusive="false">-36</minimum>
+                  <maximum
+                    exclusive="false">24</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>data not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>AVE</attributeName>
+          <attributeDefinition>Daily average temperature</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum
+                    exclusive="false">-32</minimum>
+                  <maximum exclusive="false">30</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>data not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Flag</attributeName>
+          <attributeDefinition>Data quality flag</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>directly measured</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>estimated from nearby station</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>not recorded (prior to the transition to digital)</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>108488</numberOfRecords>
+    </dataTable>
+  </dataset>
+</eml:eml>
